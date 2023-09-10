@@ -1,5 +1,5 @@
 # Cleaning-Nashville-Housing-Data
-Here is a general description of the SQL code provided:
+Here is a general description of the SQL 
 
 The code performs various data cleaning and standardization operations on a Nashville Housing Data table. It begins by converting the SaleDate column to a proper date format using the CONVERT function. This makes it easier to work with and analyze the dates. 
 
